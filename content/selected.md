@@ -16,8 +16,8 @@
 
 [查看完整项目 →](/projects)
 
-## 🤖 用 Codex 开发的 iOS App
+## 🤖 用 Codex 开发的量化金融 iOS App
 
-**AI 编程实践** —— 使用 AI 编程工具 Codex 从零开发 iOS App，非计算机背景用 AI Agent 把想法落地成真实产品。
+**AI 编程实践 × 量化金融** —— 尝试量化金融方向，用 AI 编程工具 Codex 安装金融 skills 开发 iOS App，正用东方财富模拟盘进行策略尝试与调整。
 
 ▶️ [**观看 App 演示视频**（55秒）](https://linusgraf237.github.io/videos/app-demo.mp4)

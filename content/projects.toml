@@ -46,14 +46,16 @@ content = """
 """
 
 [[items]]
-title = "用 Codex 开发的 iOS App —— AI 编程实践"
-subtitle = "AI 工具 × 产品实践"
+title = "用 Codex 开发的量化金融 iOS App —— AI 编程实践"
+subtitle = "AI 工具 × 量化金融探索"
 date = "2026"
-tags = ["AI编程", "Codex", "iOS开发"]
+tags = ["AI编程", "Codex", "量化金融"]
 content = """
-**做了什么**：使用 AI 编程工具 Codex 从零开发了一款 iOS App，完成需求拆解、代码生成与调试的完整流程。
+**做了什么**：尝试量化金融方向，用 AI 编程工具 Codex 安装相关的金融 skills，开发了一款量化金融 iOS App。
 
-**亮点**：作为非计算机专业背景，用 AI Agent 把想法快速落地成真实产品，验证了"AI 工具 × 内容创意"的跨界执行力。
+**进行中**：目前正使用东方财富模拟盘对 App 进行交易策略的尝试与调整。
+
+**亮点**：非计算机背景，用 AI Agent + 金融 skills 把量化想法落地成真实产品，探索"AI 工具 × 金融 × 内容创意"的跨界能力。
 
 **演示视频**：▶️ [点击观看 App 演示视频](https://linusgraf237.github.io/videos/app-demo.mp4)（55秒）
 """
