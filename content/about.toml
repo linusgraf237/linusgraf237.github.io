@@ -1,29 +1,28 @@
 type = "about"
-title = "About"
+title = "关于我"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "品牌内容与传播",
+  "视频内容共创",
+  "校园渠道与雇主品牌",
+  "AI 工具 × 内容创意"
 ]
 
 [[sections]]
 id = "about"
 type = "markdown"
 source = "bio.md"
-title = "About"
-
-[[sections]]
-id = "featured_publications"
-type = "publications"
-title = "Selected Publications"
-filter = "selected"
-limit = 5
+title = "关于我"
 
 [[sections]]
 id = "news"
 type = "list"
-title = "News"
+title = "最新动态"
 source = "news.toml"
 
+[[sections]]
+id = "featured_works"
+type = "markdown"
+source = "selected.md"
+title = "精选内容"

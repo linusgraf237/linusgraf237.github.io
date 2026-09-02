@@ -27,6 +27,31 @@ const OrcidIcon = ({ className }: { className?: string }) => (
     </svg>
 );
 
+// Custom Bilibili icon component
+const BilibiliIcon = ({ className }: { className?: string }) => (
+    <svg
+        viewBox="0 0 24 24"
+        fill="currentColor"
+        className={className}
+        xmlns="http://www.w3.org/2000/svg"
+    >
+        <path d="M7.583 2.099a.75.75 0 0 0-1.166-.94L2.196 6.5H1.5A1.5 1.5 0 0 0 0 8v10.5A1.5 1.5 0 0 0 1.5 20h3.555c.484 0 .912-.292 1.111-.75l.81-1.874.542-1.25c.089-.21.089-.438 0-.648a1.098 1.098 0 0 0-.195-.292L5.467 13.1c-.06-.066-.111-.14-.153-.22L3.277 8.746c-.204-.417.014-.9.432-1.103.417-.203.9.015 1.102.432l2.016 4.19 1.37 2.85a.75.75 0 0 0 1.069.32l4.773-2.67.348-.194-1.962 6.694a1.098 1.098 0 0 0-.053.356c0 .607.493 1.1 1.1 1.1H21.75c.968 0 1.75-.782 1.75-1.75V8A1.75 1.75 0 0 0 21.75 6.25h-.706l-4.218-5.09a.75.75 0 1 0-1.166.94l3.697 4.462a3 3 0 0 0-.433-.062H5.666a3 3 0 0 0-.433.062l3.697-4.463zM2.5 8.75c0-.414.336-.75.75-.75h17.5a.75.75 0 0 1 .75.75v9.5a.75.75 0 0 1-.75.75h-14a.75.75 0 0 1-.75-.75v-9.5z" />
+    </svg>
+);
+
+// Custom Xiaohongshu (RED) icon component
+const XiaohongshuIcon = ({ className }: { className?: string }) => (
+    <svg
+        viewBox="0 0 24 24"
+        fill="currentColor"
+        className={className}
+        xmlns="http://www.w3.org/2000/svg"
+    >
+        <path d="M2 5.5A3.5 3.5 0 0 1 5.5 2h13A3.5 3.5 0 0 1 22 5.5v13a3.5 3.5 0 0 1-3.5 3.5h-13A3.5 3.5 0 0 1 2 18.5v-13z" />
+        <text x="12" y="16.4" textAnchor="middle" fontSize="10.5" fontWeight="700" fill="#ffffff">RED</text>
+    </svg>
+);
+
 interface ProfileProps {
     author: SiteConfig['author'];
     social: SiteConfig['social'];
@@ -101,6 +126,16 @@ export default function Profile({ author, social, features, researchInterests }:
             name: 'LinkedIn',
             href: social.linkedin,
             icon: Linkedin,
+        }] : []),
+        ...(social.bilibili ? [{
+            name: 'Bilibili',
+            href: String(social.bilibili),
+            icon: BilibiliIcon,
+        }] : []),
+        ...(social.xiaohongshu ? [{
+            name: 'Xiaohongshu',
+            href: String(social.xiaohongshu),
+            icon: XiaohongshuIcon,
         }] : []),
     ];
 

@@ -1,26 +1,75 @@
-## Education
+# 马一鸣
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**南京医科大学** · 药学硕士在读（2024.07 - 2027.07，2027届）
+📞 18061732645 · 📧 linusgraf@stu.njmu.edu.cn
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+---
 
-## Experience
+## 求职意向
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+- **目标岗位**：品牌内容与传播 / 公关传播 / 市场类（腾讯、阿里、字节同套材料可投）
+- **个人定位**：懂校园用户的品牌内容创作者 + 视频内容共创者
 
-## Skills
+---
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+## 教育背景
 
-## Awards & Honors
+**南京医科大学**，药学硕士，*2024.07 - 2027.07*
+- 科研方向：电化学发光检测生物标志物研究，涉及水凝胶、MOF 等功能材料开发
+- 荣誉：新生奖学金、校二等奖学金、校优秀团员
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+**广东药科大学**，中药学本科，*2020.09 - 2024.06*
+- 荣誉：学业三等奖学金、创新创业奖学金、全国大学生金融挑战赛省级三等奖，专业排名前 20%
+
+---
+
+## 项目经历
+
+### 南京医科大学常州校区招生宣传视频 —— 拍摄演员 & 内容共创
+*2026.06* · 招生宣传 · 视频内容共创
+
+- 参与招生宣传视频拍摄，负责校园科研场景、实验室取景，出镜参与学校介绍与演出
+- 基于"镜头内"视角提出【具体1个调整建议，例如：把实验室开头XX秒改为XX】，提升开场吸引力
+- 成片用于南京医科大学常州校区招生宣传，面向高考季考生及家长投放
+
+### 阿斯利康校园大使 · 雇主品牌与活动操盘
+*2025.07 - 2026.06* · 雇主品牌 · 品牌推广与内容共创
+
+- 支持雇主品牌宣传，推动岗位信息触达，个人宣传累计覆盖学生 3000+，推荐优秀生源 75 人
+- 参与首届 AZ 大使"成团日"Vlog 拍摄，负责脚本对接与场景取景，视频播放量 5000+
+- 获评阿斯利康"多元乐创奖"，综合排名前十，获官方推荐信
+
+### 校园渠道运营
+*2025.07 - 2026.06* · 校园渠道 · 校招信息触达
+
+- 以校园大使身份运营校园渠道，推动阿斯利康校招岗位信息触达
+- 累计覆盖学生 3000+，推荐优秀生源 75 人
+
+---
+
+## 其他经历
+
+- **北京大学人工智能前沿暑期课程**（2026.06）：系统学习具身智能、世界模型等前沿方向，完成 AI Agent 核心架构与 skill 调用逻辑专项学习
+- **金陵国际脑科学与药物科学研讨会**（2026.05）：外宾接待志愿者，负责海外专家行程对接与现场翻译
+- **中药鉴定学实验室科研助理**（2022.11 - 2023.03）：参与《中药材种子图鉴（全国卷）》编纂，完成 50 余种中药材种子显微拍摄与图像标注，素材经专家组审核纳入正式出版物
+- **广东药科大学中药学院足球队队长**（2022.11 - 2023.11）：统筹日常训练与战术规划，带领队伍参加校足球联赛
+
+---
+
+## 技能
+
+- **视频内容**：脚本对接与场景取景、镜头表达、出镜演出
+- **活动策划**：品牌活动策划与执行、内容产出与分发
+- **渠道运营**：校园渠道运营、社群运营、校招信息触达
+- **内容撰写**：新媒体内容撰写、雇主品牌传播文案
+- **科研与 AI 工具**：电化学工作站、BPCL 微弱发光测量仪、Consensus、Claude Code、Codex、Graphpad、Origin、Chemdraw
+- **语言**：英语 CET-4 / CET-6（考研英语一 82 分）
+
+---
+
+## 作品集
+
+- 🎬 B站 · [直击阿斯利康2025校园大使成团日现场](https://b23.tv/8pIeKtD)
+- 📹 微信视频号 · [南京医科大学常州校区首届招生视频](https://weixin.qq.com/sph/Ag1SuP5zwE)
+- 📕 小红书：【如有，填链接】
+- 🔗 GitHub：[https://github.com/【你的GitHub用户名】](https://github.com/【你的GitHub用户名】)

@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+我是马一鸣，南京医科大学药学硕士在读（2024.07 - 2027.07），2027届毕业生。我的职业方向是品牌内容与传播。
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+我的差异化在于：作为阿斯利康校园大使，我支持雇主品牌宣传、推动岗位信息触达，个人宣传累计覆盖学生 3000+、推荐优秀生源 75 人，获评"多元乐创奖"并拿到官方推荐信（懂校园渠道与雇主品牌如何触达学生）；同时我参与了南京医科大学常州校区招生宣传视频拍摄与首届 AZ 大使"成团日"Vlog 内容共创，负责场景取景与脚本对接（懂内容如何通过镜头语言打动人）。
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+我相信好的品牌内容 = 用户洞察 × 创意判断 × 落地执行，这三件事我都完整跑通过一遍。

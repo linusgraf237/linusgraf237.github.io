@@ -1,29 +1,24 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "马一鸣"
+description = "马一鸣的品牌内容与传播作品集"
 favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+url = "https://【你的GitHub用户名】.github.io"
+last_updated = "2026年9月"
 
 [author]
-name = "Jiale Liu"
-title = "PhD Student"
-institution = "University of Example"
+name = "马一鸣"
+title = "品牌内容与传播方向求职者"
+institution = "南京医科大学"
 avatar = "/bio.jpg"
+bio = "南京医科大学药学硕士在读（2027届）。阿斯利康校园大使，雇主品牌宣传覆盖学生3000+、推荐优秀生源75人；参与南京医科大学常州校区招生宣传视频拍摄与AZ成团日Vlog内容共创。擅长把'站到镜头前'的用户洞察转化为内容创意。"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "john.doe@example.com"
-location = "City, Country"
-location_url = "https://maps.google.com"
-location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
-]
-google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
-github = "https://github.com"
-linkedin = "https://linkedin.com"
+email = "linusgraf@stu.njmu.edu.cn"
+github = "https://github.com/【你的GitHub用户名】"
+xiaohongshu = "【如有，填链接】"
+bilibili = "https://b23.tv/8pIeKtD"
 
 [features]
 # Show a like button on the about page
@@ -33,53 +28,30 @@ enable_likes = true
 enable_one_page_mode = false
 
 [i18n]
-enabled = true
-locales = ["zh", "en"]
-default_locale = "en"
-# "auto" means the locale will be determined by the browser's language setting, "fixed" means the locale will be fixed to the default locale (but can be switched still, if you want to disable, set "enable=false")
-mode = "auto"
-fixed_locale = "en"
-# If true, PRISM will remember user's language preference in browser's localStorage
-persist = true
-# Show a language switcher on the top right corner
-switcher = true
-
-[i18n.labels]
-zh = "中文"
-en = "English"
+enabled = false
+locales = ["zh"]
+default_locale = "zh"
 
 [[navigation]]
-title = "About"
+title = "首页"
 type = "page"
 target = "about"
 href = "/"
 
 [[navigation]]
-title = "Publications"
+title = "精选作品"
 type = "page"
-target = "publications"
-href = "/publications"
+target = "projects"
+href = "/projects"
 
 [[navigation]]
-title = "Teaching"
-type = "page"
-target = "teaching"
-href = "/teaching"
-
-[[navigation]]
-title = "Awards"
-type = "page"
-target = "awards"
-href = "/awards"
-
-[[navigation]]
-title = "Services"
-type = "page"
-target = "services"
-href = "/services"
-
-[[navigation]]
-title = "CV"
+title = "经历与简历"
 type = "page"
 target = "cv"
 href = "/cv"
+
+[[navigation]]
+title = "内容随笔"
+type = "page"
+target = "notes"
+href = "/notes"
