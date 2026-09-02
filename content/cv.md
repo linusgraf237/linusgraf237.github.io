@@ -45,6 +45,13 @@
 - 以校园大使身份运营校园渠道，推动阿斯利康校招岗位信息触达
 - 累计覆盖学生 3000+，推荐优秀生源 75 人
 
+### 用 Codex 开发的 iOS App —— AI 编程实践
+*2026* · AI 工具 · 产品实践
+
+- 使用 AI 编程工具 Codex 从零开发 iOS App，完成需求拆解、代码生成与调试全流程
+- 非计算机背景，用 AI Agent 把想法快速落地为真实产品，验证"AI 工具 × 内容创意"跨界执行力
+- 演示视频：[https://linusgraf237.github.io/videos/app-demo.mp4](https://linusgraf237.github.io/videos/app-demo.mp4)
+
 ---
 
 ## 其他经历

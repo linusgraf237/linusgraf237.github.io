@@ -44,3 +44,16 @@ content = """
 
 **效果**：累计覆盖学生 3000+，在职期间推荐优秀生源 75 人，业绩综合排名前十，获评"多元乐创奖"。
 """
+
+[[items]]
+title = "用 Codex 开发的 iOS App —— AI 编程实践"
+subtitle = "AI 工具 × 产品实践"
+date = "2026"
+tags = ["AI编程", "Codex", "iOS开发"]
+content = """
+**做了什么**：使用 AI 编程工具 Codex 从零开发了一款 iOS App，完成需求拆解、代码生成与调试的完整流程。
+
+**亮点**：作为非计算机专业背景，用 AI Agent 把想法快速落地成真实产品，验证了"AI 工具 × 内容创意"的跨界执行力。
+
+**演示视频**：▶️ [点击观看 App 演示视频](https://linusgraf237.github.io/videos/app-demo.mp4)（55秒）
+"""
