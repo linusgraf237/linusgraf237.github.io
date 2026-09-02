@@ -72,4 +72,4 @@
 - 🎬 B站 · [直击阿斯利康2025校园大使成团日现场](https://b23.tv/8pIeKtD)
 - 📹 微信视频号 · [南京医科大学常州校区首届招生视频](https://weixin.qq.com/sph/Ag1SuP5zwE)
 - 📕 小红书：【如有，填链接】
-- 🔗 GitHub：[https://github.com/LinhsGraf](https://github.com/LinhsGraf)
+- 🔗 GitHub：[https://github.com/linusgraf237](https://github.com/linusgraf237)
